@@ -1,4 +1,4 @@
-<p align="center"> <br />
+<p> 
     <a href="https://phenomenol-art.vercel.app">View Demo</a>
     <img src="screenshot.png" alt="screenshot">
   </a>
